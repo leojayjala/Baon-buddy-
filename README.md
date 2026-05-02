@@ -5,7 +5,7 @@ Student budgeting app built with Expo (React Native) and Firebase Authentication
 ## Team Members
 
 - Leo Jay L. Jala
-- Jake Del Campo
+- Jake Del Campo - Assigned Task: Spend money feature, UI improvements, and Error handling + submission
 - Viandre Paglinawan
 
 ## Run Locally (Expo)
