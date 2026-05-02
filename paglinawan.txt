@@ -1,0 +1,1 @@
+I was responsible for developing the logic and core features of the system. I handled how the application processes data and ensures that the main functionalities work correctly. I also contributed by adding and testing features to improve the overall performance and usability of the project.
